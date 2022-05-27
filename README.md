@@ -9,4 +9,4 @@ this is a sample to learn html css jquery. that can assist you in developing you
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </div>
   <hr>
-  <p align="center"><img src="https://i.postimg.cc/KxQ0wf9S/112.jpg" width="400"></p>
+  <p align="center"><img src="https://i.postimg.cc/59gT03pv/111.jpg" width="400"></p>
